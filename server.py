@@ -21,5 +21,5 @@ def multiply(number, word):
 if __name__=="__main__":
     app.run(debug=True)
 # The following is not correct
-else:
-    print("Sorry! No response. Try again.")
+# else:
+#     print("Sorry! No response. Try again.")
